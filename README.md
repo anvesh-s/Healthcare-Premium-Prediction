@@ -13,17 +13,18 @@ Tools & Technologies
 Programming Languages: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Model Evaluation Metrics: R-squared, Mean Squared Error (MSE), Mean Absolute Error (MAE)
+
+
 How to Run
-Clone the repository:
-bash
-Copy code
+1. Clone the repository:
 git clone https://github.com/anvesh-s/Healthcare-Premium-Prediction.git
-Navigate to the project directory and open the Jupyter Notebooks.
-Install the required libraries:
-bash
-Copy code
+
+2. Navigate to the project directory and open the Jupyter Notebooks.
+   
+3. Install the required libraries:
 pip install -r requirements.txt
-Run the notebooks step by step to reproduce the analysis and results.
+
+
 Results
 Models effectively predicted healthcare premiums, with optimized parameters achieving robust performance.
 Error analysis highlighted specific demographic trends (e.g., age groups) for further investigation.
