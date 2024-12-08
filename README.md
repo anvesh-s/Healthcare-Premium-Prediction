@@ -20,9 +20,7 @@ How to Run
 git clone https://github.com/anvesh-s/Healthcare-Premium-Prediction.git
 
 2. Navigate to the project directory and open the Jupyter Notebooks.
-   
-3. Install the required libraries:
-pip install -r requirements.txt
+
 
 
 Results
